@@ -93,6 +93,14 @@ Preview
 ---
 
 📂 Download the full Power BI Dashboard (.pbix):  
-https://drive.google.com/file/d/1NQCy8RvJGUFgaYSnLD35DcTizAGjM5Ux/view?usp=sharing
+(https://drive.google.com/file/d/14apQtmxagLW3TfRKUO3Egho94wGjusEe/view?usp=sharing)
+
+---
+
+## 🙋‍♂️ Author
+**MANJU BALA S**  
+Aspiring Data Analyst  
+📧 smanjubala@outlook.com
+🌐 https://www.linkedin.com/in/manjubala-sundaramoorthy/
 
 ---
