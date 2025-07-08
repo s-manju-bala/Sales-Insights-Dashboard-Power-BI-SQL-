@@ -69,19 +69,30 @@ Monitor profitability patterns across product lines over time.
 
 Preview 
 --------
+
+### Sales Insights Dashboard
 ![overview](https://github.com/user-attachments/assets/cef2cbe0-69f6-4f65-a74b-d83fb35525fd)
+
+### 📌 Gain vs Loss Distribution
 ![Gain vs Loss Distribution](https://github.com/user-attachments/assets/425e50a3-170f-4966-b08a-9231a9f27521)
+
+### 🧑‍💼 Top 5 Customers by Revenue and Profit
 ![Top 5 Customers by Revenue and Profit](https://github.com/user-attachments/assets/05e1ca10-f167-4d0e-aace-a5748cc2b6a9)
+
+### 📊 Sales Volume Trend
 ![Sales Volume Trend](https://github.com/user-attachments/assets/dd3ec72e-8f89-49e6-ace0-419617781bb4)
 
 ---
 
 ## 🧰 Tools & Technologies Used
 
-| Tool       | Purpose                            |
-|------------|------------------------------------|
-| **Power BI** | Dashboard creation & visualization |
-| **DAX**      | KPI calculations & measures        |
-| **SQL (with CTEs)** | Data filtering, joins & transformation |
+- **📊 Power BI** for Dashboard creation & visualization |
+- **DAX** for KPI calculations & measures        |
+- **SQL (with CTEs)** for Data filtering, joins & transformation |
+
+---
+
+📂 Download the full Power BI Dashboard (.pbix):  
+https://drive.google.com/file/d/1NQCy8RvJGUFgaYSnLD35DcTizAGjM5Ux/view?usp=sharing
 
 ---
